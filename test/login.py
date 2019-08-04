@@ -1,2 +1,2 @@
 print("Hello World!")
-num = 100
+num = 80
